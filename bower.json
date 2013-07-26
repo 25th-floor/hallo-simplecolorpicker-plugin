@@ -2,8 +2,8 @@
   "name": "hallo-simplecolorpicker-plugin",
   "version": "0.1.0",
   "dependencies": {
-    "hallo: ">=1.0",
-    "jquery-simplecolorpicker": ">=0.1",
+    "hallo" : ">=1.0",
+    "jquery-simplecolorpicker": ">=0.1"
   },
   "scripts": [
     "hallo-simplecolorpicker-plugin.js"
