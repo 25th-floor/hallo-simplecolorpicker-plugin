@@ -1,0 +1,15 @@
+{
+  "name": "hallo-simplecolorpicker-plugin",
+  "version": "0.1.0",
+  "dependencies": {
+    "hallo: ">=1.0",
+    "jquery-simplecolorpicker": ">=0.1",
+  },
+  "scripts": [
+    "hallo-simplecolorpicker-plugin.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/25th-floor/hallo-simplecolorpicker-plugin.git"
+  }
+}
