@@ -1,15 +1,11 @@
 {
-  "name": "hallo-simplecolorpicker-plugin",
-  "version": "0.1.0",
-  "dependencies": {
-    "hallo" : ">=1.0",
-    "jquery-simplecolorpicker": ">=0.1"
-  },
-  "scripts": [
-    "hallo-simplecolorpicker-plugin.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/25th-floor/hallo-simplecolorpicker-plugin.git"
-  }
+	"name"         : "hallo-simplecolorpicker-plugin",
+	"version"      : "0.1.1",
+	"main"         : "hallo-simplecolorpicker-plugin.js",
+
+	"dependencies" : {
+		"hallo"                    : "bergie/hallo#>=1.0",
+		"jquery-simplecolorpicker" : "25th-floor/jquery-simplecolorpicker#>=0.1",
+		"jquery-ui"                : "components/jqueryui#>=1.8"
+	}
 }
