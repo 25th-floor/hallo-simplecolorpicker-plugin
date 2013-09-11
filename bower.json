@@ -4,7 +4,7 @@
 
 	"dependencies" : {
 		"hallo"                    : "bergie/hallo#>=1.0",
-		"jquery-simplecolorpicker" : "tkrotoff/jquery-simplecolorpicker#>=06d02094af552abf363936c81764136f6a73bf64",
+		"jquery-simplecolorpicker" : "tkrotoff/jquery-simplecolorpicker#latest",
 		"jquery-ui"                : "components/jqueryui#>=1.8"
 	}
 }
