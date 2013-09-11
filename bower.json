@@ -1,11 +1,10 @@
 {
 	"name"         : "hallo-simplecolorpicker-plugin",
-	"version"      : "0.1.1",
 	"main"         : "hallo-simplecolorpicker-plugin.js",
 
 	"dependencies" : {
 		"hallo"                    : "bergie/hallo#>=1.0",
-		"jquery-simplecolorpicker" : "25th-floor/jquery-simplecolorpicker#>=0.1",
+		"jquery-simplecolorpicker" : "tkrotoff/jquery-simplecolorpicker#>=06d02094af552abf363936c81764136f6a73bf64",
 		"jquery-ui"                : "components/jqueryui#>=1.8"
 	}
 }
